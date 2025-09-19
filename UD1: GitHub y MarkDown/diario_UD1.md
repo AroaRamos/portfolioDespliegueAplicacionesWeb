@@ -8,7 +8,7 @@ Además, la práctica con **Markdown** ha sido un descubrimiento. Está muy bien
 
 #### **Qué no entiendo** 
 
-Aunque ya le he cogido el truco a lo básico, me lía un poco el tema de **fusionar las ramas**.   
+Aunque creo que lo basico lo entiendo, me lía un poco el tema de **fusionar las ramas**.   
 Me cuesta entender el manejo de las **ramas** de Git (cuando hacer **pull request, Merge pull request...**).
 
 #### **Qué es lo que más me ha gustado y qué es lo que menos** 
